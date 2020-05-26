@@ -1,1 +1,4 @@
 issue.txt
+chromedriver
+__pyc*
+.vscode
